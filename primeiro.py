@@ -1,2 +1,3 @@
+nome = input("Digite o seu nome: ")
 
-print("Hello world!!")
+print("Bem-vindo ao meu primeiro programa ",nome,"!!!")
